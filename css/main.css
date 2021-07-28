@@ -19,6 +19,7 @@ html {
 
 a {
   color: red;
+  font-size:10px;
 }
 /*
  * Remove text-shadow in selection highlight:
