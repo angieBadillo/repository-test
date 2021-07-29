@@ -17,10 +17,17 @@ html {
   line-height: 1.4;
 }
 
+<<<<<<< HEAD
 p {
   line-height: 1.5em;
 }
 
+=======
+a {
+  color: red;
+  font-size:10px;
+}
+>>>>>>> add-bootstrap
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
